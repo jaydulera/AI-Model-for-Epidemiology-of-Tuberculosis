@@ -2,7 +2,8 @@
 The folder contains all Python Notebooks used in developing the prediction models. It is subdivided into two folders : 
 
 **All Models**
-This subsection includes all the code written to develop the prospective models during the initial period. The main models are :
+This subsection includes all the code written to develop the prospective models during the initial period. 
+The main models are :
 
 - Bayesian Neural Networks
 
@@ -23,7 +24,8 @@ This subsection includes all the code written to develop the prospective models 
 - XG Boost
 
 **Final Models**
-This section includes the code for the most efficient of the prospective models used for prediction. Following are the fianl models :
+This section includes the code for the most efficient of the prospective models used for prediction. 
+Following are the final models :
 
 - **Convolutional Neural Networks (CNN)** - MOST EFFICIENT
 
